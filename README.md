@@ -3,7 +3,7 @@
 ## 👤 Información del Alumno
 * **Nombre:** Jerry Morales Rivera
 * **Materia:** Extracción de Conocimientos de Base de Datos
-* **Cuatrimestre:** 9° cuatrimentre
+* **Cuatrimestre:** 9° cuatrimestre
 
 ---
 
